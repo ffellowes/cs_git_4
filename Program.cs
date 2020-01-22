@@ -13,10 +13,10 @@ namespace cs_git_4
             Console.WriteLine("git4");      // first edit
 
             // section 1
-            ;
+            Console.WriteLine("edit #2");      // second edit
 
             // section 2
-            ;
+            Console.WriteLine("edit #2");      // second edit also
 
             // section 3
             ;
