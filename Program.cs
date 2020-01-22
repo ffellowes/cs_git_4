@@ -10,7 +10,7 @@ namespace cs_git_4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("git1");
+            Console.WriteLine("git4");      // first edit
 
             // section 1
             ;
