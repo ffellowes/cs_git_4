@@ -19,7 +19,7 @@ namespace cs_git_4
             Console.WriteLine("edit #2");      // second edit also
 
             // section 3
-            ;
+            Console.WriteLine("edit #3");      // edit number three
 
             Console.ReadLine();
         }
